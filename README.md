@@ -35,5 +35,5 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p>
-<a href="mailto:jnanshenoy01@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-jnanshenoy01@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:shenoyjnandevdas07@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-shenoyjnandevdas07@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
