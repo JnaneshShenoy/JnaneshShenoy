@@ -2,10 +2,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JnaneshShenoy&label=Profile%20views&color=0e75b6&style=flat" alt="Jnanesh Shenoy" /> </p>
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and dumb sites <3.
+- 🤔 &nbsp; Exploring new technologies, developing software solutions and cool sites.
 - 🎓 &nbsp; Studying Computer Science Engineering at NMAM Institute of Technology.
-- 💼 &nbsp; Building iself&Co.
-- 🌱 &nbsp; Learning more about WebD.
+- 🌱 &nbsp; Learning more about Web Development.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
