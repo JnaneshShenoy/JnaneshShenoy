@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Exploring new technologies, developing software solutions and cool sites.
 - 🎓 &nbsp; Studying Computer Science Engineering at NMAM Institute of Technology.
-- 🌱 &nbsp; Learning more about Web Development.
+- 🌱 &nbsp; Learning Rust right now !! (Feb 2024)
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
