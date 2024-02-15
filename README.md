@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JnaneshShenoy&label=Profile%20views&color=0e75b6&style=flat" alt="Jnanesh Shenoy" /> </p>
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies, developing software solutions and cool sites.
+- 🤔 &nbsp; Exploring new technologies, developing software solutions and cool things.
 - 🎓 &nbsp; Studying Computer Science Engineering at NMAM Institute of Technology.
 - 🌱 &nbsp; Learning Rust right now !! (Feb 2024)
 
