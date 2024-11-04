@@ -5,10 +5,6 @@
 - 🤔 &nbsp; Exploring new technologies, developing software solutions and cool things.
 - 🎓 &nbsp; Studying Computer Science Engineering at NMAM Institute of Technology.
 - 🌱 &nbsp; Learning Rust right now !! (Feb 2024)
-<h3> 🎶 &nbsp;Currently Immersed In: </h3>
-<p>
-  <a href="https://youtu.be/tD4HCZe-tew?si=2Lmeq_O6Zj-mdNVp" target="_blank">Watch the music video here!</a>
-</p>
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
